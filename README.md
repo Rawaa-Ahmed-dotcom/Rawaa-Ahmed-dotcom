@@ -1,62 +1,19 @@
-## Hey 👋, I'm [Rawaaa Ahmed!]
+<h1 align="center">Hi 👋, I'm Rawaa Ahmed Atia Mohamed</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
+- 🌱 I’m currently learning **JavaScript,React**
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=h[ttps://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/rawaa-ahmed-b4715a314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:rawaaahmed987@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=[https://instagram.com/m.a.n.u.m.a.n.o.j/](https://www.instagram.com/rawaa_ahmed987/profilecard/?igsh=aWFhOWoxbTg4NGFh))]([https://instagram.com/m.a.n.u.m.a.n.o.j](https://www.instagram.com/rawaa_ahmed987/profilecard/?igsh=aWFhOWoxbTg4NGFh)) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=[https://facebook.com/manumanoj0010](https://www.facebook.com/profile.php?id=61568470989915&mibextid=ZbWKwL))]([https://facebook.com/manumanoj0010](https://www.facebook.com/profile.php?id=61568470989915&mibextid=ZbWKwL))
+- 💬 Ask me about **HTML , CSS**
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010)
+- 📫 How to reach me **rawaaahmed987@gmail.com**
 
-I'm in my second year  in Computer Science 🎓 from Mansoura University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ .
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rawaa ahmed mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawaa ahmed mohamed" height="30" width="40" /></a>
+<a href="https://fb.com/rawaa ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rawaa ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/rawaa ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawaa ahmed" height="30" width="40" /></a>
+</p>
 
-### More about me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-
-- 🤝 Open for collaborations in web development 🕸️
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-
-
-<h2> 🛠 &nbsp;My Tech Stack</h2>
-
-
-<details>	
-  <summary><b>Frontend Development</b></summary>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  
-</details>
-
-
-
-
-
-
-
-
-
-
-<details>	
-  <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-<!--END_SECTION:waka-->
-</details> 
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-------
-Credits: [manumanoj0010](https://github.com/manumanoj0010)
-
-Last Edited on: 15/01/2021
