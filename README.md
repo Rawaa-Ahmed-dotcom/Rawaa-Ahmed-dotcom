@@ -183,43 +183,39 @@
 </table>
 
 
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rawaa-Ahmed-dotcom/Rawaa-Ahmed-dotcom/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rawaa-Ahmed-dotcom/Rawaa-Ahmed-dotcom/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rawaa-Ahmed-dotcom/Rawaa-Ahmed-dotcom/master/assets/github-contribution-grid-snake.svg">
+<p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+      <img alt="github-snake" src="github-snake.svg" />
     </picture>
 </p>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
-  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
-    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
+  <a href="https://discord.gg/WRaAkys4" target="_blank">
+    <img align="center" alt="Rawaa Ahmed | Discord" width="24px" src="https://www.svgrepo.com/show/452188/discord.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
-    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="www.linkedin.com/in/rawaaahmed" target="_blank">
+    <img align="center" alt="Rawaa Ahmed | Linkedin" width="26px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/juejin.svg" />
+  <a href="https://github.com/Rawaa-Ahmed-dotcom" target="_blank">
+    <img align="center" alt="Rawaa Ahmed | Github" width="24px" src="https://www.svgrepo.com/show/512317/github-142.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  <a href="mailto:rawaaahmed987@gmail.com" >
+    <img align="center" alt="Rawaa Ahmed | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
 <p>
 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 ashu-guo
+  &copy; 2026 Rawaa Ahmed
 </div>
 
 
----
 
-Credit: [ashu-guo](https://github.com/ashu-guo)
-
-Last Edited on 03/01/2024
