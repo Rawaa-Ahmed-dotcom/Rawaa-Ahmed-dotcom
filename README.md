@@ -21,7 +21,7 @@
 - 🤔 I’m looking for guidance and opportunities in **Open Source Contributions** and backend development.
 - ⚙️ I use daily: `.js`, `.jsx`, `.tsx`, `.react`, `.css`, `.html`, `.git`, `.npm`
 - 💬 Ping me about **React**, **JavaScript**, **Frontend Development**, **MERN Stack**, and **Web App Design**.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/rawaaahmed)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rawaaahmed)
 
 
 
@@ -198,7 +198,7 @@
     <img align="center" alt="Rawaa Ahmed | Discord" width="24px" src="https://www.svgrepo.com/show/452188/discord.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="www.linkedin.com/in/rawaaahmed" target="_blank">
+  <a href="https://www.linkedin.com/in/rawaaahmed" target="_blank">
     <img align="center" alt="Rawaa Ahmed | Linkedin" width="26px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
   </a> &nbsp;&nbsp;
 
