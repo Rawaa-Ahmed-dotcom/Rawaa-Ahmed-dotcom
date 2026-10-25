@@ -15,14 +15,12 @@
 
 # Hi there 👋, I'm **Rawaa Ahmed**
 
-- 🔭 I’m currently working on **React Frontend Projects**, building interactive and responsive web apps.
-- 🌱 I’m currently learning **Node.js, Express.js, and MongoDB** to become a **MERN Stack Developer**.
-- 👯 I’m looking to collaborate with **Frontend and Fullstack Developers**, especially on **Web Applications & Visualization Projects**.
-- 🤔 I’m looking for guidance and opportunities in **Open Source Contributions** and backend development.
-- ⚙️ I use daily: `.js`, `.jsx`, `.tsx`, `.react`, `.css`, `.html`, `.git`, `.npm`
-- 💬 Ping me about **React**, **JavaScript**, **Frontend Development**, **MERN Stack**, and **Web App Design**.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rawaaahmed)
-
+* 🔭 I’m a Full Stack Developer building interactive and responsive web apps with React, Express.js, MongoDB, and PostgreSQL.
+* 🌱 I’m currently learning Next.js.
+* 👯 I’m looking to collaborate with Frontend and Fullstack Developers, especially on Web Applications & Visualization Projects.
+* 🤔 I’m interested in Open Source Contributions and looking for guidance and opportunities to start contributing.
+* ⚙️ I use daily: `.js`, `.jsx`, `.tsx`, `.react`, `.css`, `.html`, `.git`, `.npm`
+* 💬 Ping me about React, JavaScript, Next.js, Frontend Development, Full Stack / MERN, and Web App Design.
 
 
 
@@ -42,6 +40,7 @@
 [<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="40"/>](https://tailwindcss.com/)
 [<img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" width="40"/>](https://getbootstrap.com/)
 [<img src="https://www.svgrepo.com/show/452077/npm.svg" width="40"/>](https://www.npmjs.com/)
+[<img src = "https://www.svgrepo.com/show/353724/express.svg" width = "40"/>](https://expressjs.com/)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
